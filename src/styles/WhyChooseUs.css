@@ -1,0 +1,10 @@
+.why-choose-us .features {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+  }
+  .feature {
+    width: 150px;
+  }

@@ -1,0 +1,28 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 4rem 1rem;
+    background-color: #fdfeff;
+  }
+  
+  .hero-logo {
+    width: 300px;
+    height: auto;
+    margin-bottom: 1.5rem;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #222;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    color: #555;
+    max-width: 600px;
+  }
+  
