@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroSection from './components/Herosection';
+import HeroSection from './components/HeroSection';
 import HowItWorks from './components/HowItWorks';
 import WhyChooseUs from './components/WhyChooseUs';
 import Testimonials from './components/Testimonials';
@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div>
-      <Herosection />
+      <HeroSection />
       <HowItWorks />
       <WhyChooseUs />
       <Testimonials />

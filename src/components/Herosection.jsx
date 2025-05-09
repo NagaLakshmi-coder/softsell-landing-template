@@ -1,16 +1,8 @@
 import React from 'react';
-import '../styles/Herosection.css';
+import '../styles/HeroSection.css';
 import logo from '../assets/logo.png'; // adjust the path as per your project structure
 
-function HerSection() {
-  return (
-    <section className="hero">
-      <img src={logo} alt="Company Logo" className="hero-logo" />
-      <h1>Welcome to SoftSell</h1>
-      <p>Your trusted software marketing partner.</p>
-    </section>
-  );
-}
+
 
 
 
