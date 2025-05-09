@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroSection from './components/HeroSection';
+import HeroSection from './components/Herosection';
 import HowItWorks from './components/HowItWorks';
 import WhyChooseUs from './components/WhyChooseUs';
 import Testimonials from './components/Testimonials';

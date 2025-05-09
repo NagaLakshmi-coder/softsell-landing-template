@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/HeroSection.css';
+import '../styles/Herosection.css';
 import logo from '../assets/logo.png'; // adjust the path as per your project structure
 
 function HerSection() {
