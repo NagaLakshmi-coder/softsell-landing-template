@@ -39,31 +39,6 @@ softsell-landing/
 │
 ├── public/
 │   ├── logo.png               # SoftSell logo
-│   ├── screenshot.png         # Output image for README
-│   └── favicon.ico            # (Optional)
-│
-├── src/
-│   ├── assets/
-│   │   └── icons/             # Icons used in HowItWorks & WhyChooseUs
-│   │
-│   ├── components/
-│   │   ├── HeroSection.jsx     # Hero headline + CTA
-│   │   ├── HowItWorks.jsx      # 3-step process with icons
-│   │   ├── WhyChooseUs.jsx     # 3–4 value points with icons
-│   │   ├── Testimonials.jsx    # Two dummy customer reviews
-│   │   └── ContactForm.jsx     # Form with Name, Email, etc.
-│   │
-│   ├── App.jsx                 # Root page combining all components
-│   ├── main.jsx                # Vite entry point
-│
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js
-├── README.mdsoftsell-landing/
-│
-├── public/
-│   ├── logo.png               # SoftSell logo
 │
 ├── src/
 │   ├── assets/
